@@ -29,7 +29,11 @@ I am a versatile **Full-Stack Web & Mobile Engineer** with a proven track record
 ### 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.anuraghazra.com/api?username=mangosandwich&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangosandwich&theme=radical" alt="GitHub Streak" height="150" />
+</p>
+
+### 🏆 My GitHub Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mangosandwich&theme=radical&margin-w=4&margin-h=4" alt="mangosandwich's Trophies" />
 </p>
 
 ---

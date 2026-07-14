@@ -1,4 +1,4 @@
-# Hi there, I'm Adam Gozali (aka @mangosandwich) 👋
+# Hi there, I'm Adam Gozali 👋
 
 I am a versatile **Full-Stack Web & Mobile Engineer** with a proven track record of delivering production-ready applications. From robust API architectures and automation pipelines (CI/CD) to high-performance frontend and mobile apps, I build end-to-end digital solutions.
 
@@ -27,14 +27,13 @@ I am a versatile **Full-Stack Web & Mobile Engineer** with a proven track record
 ---
 
 ### 📊 My GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangosandwich&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mangosandwich&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangosandwich&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 ---
 
 ### 📫 Let's Collaborate
-- **LinkedIn:** [linkedin.com/in/adamgozali](https://linkedin.com/in/adamgozali) <!-- Sesuaikan jika URL LinkedIn kamu berbeda -->
-- **Email:** adamgozali@example.com <!-- Ganti dengan email aktifmu -->
+- **LinkedIn:** [linkedin.com/in/adamgozali](https://linkedin.com/in/adamgozali)
+- **Email:** adamgozali@umsu.ac.id

@@ -8,6 +8,7 @@ I am a versatile **Full-Stack Web & Mobile Engineer** with a proven track record
 
 #### 🚀 Backend & Mobile Integration
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NativePHP](https://img.shields.io/badge/NativePHP-Experimental-blue?style=for-the-badge)
 ![Filament](https://img.shields.io/badge/Filament%20PHP-Admin-%23FF2D20?style=for-the-badge)

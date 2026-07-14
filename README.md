@@ -6,7 +6,7 @@ I am a versatile **Full-Stack Web & Mobile Engineer** with a proven track record
 
 ### 💻 Tech Stack & Tools
 
-#### 🚀 Backend & Desktop/Mobile Integration
+#### 🚀 Backend & Mobile Integration
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NativePHP](https://img.shields.io/badge/NativePHP-Experimental-blue?style=for-the-badge)
@@ -28,8 +28,11 @@ I am a versatile **Full-Stack Web & Mobile Engineer** with a proven track record
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.anuraghazra.com/api?username=mangosandwich&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-   <img src="https://github-profile-trophy.vercel.app/?username=mangosandwich&theme=radical&margin-w=4&margin-h=4" alt="mangosandwich's Trophies" />
+  <!-- Server Komunitas 1 (Sangat Stabil) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mangosandwich&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  
+  <!-- Server Komunitas 2 (Untuk Streak Stats) -->
+  <img src="https://github-readme-streak-stats-two.vercel.app/?user=mangosandwich&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 
